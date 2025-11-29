@@ -6,8 +6,8 @@ import google.generativeai as genai # Imports the Google Gemini AI library
 import os                        # Imports interface to interact with the operating system (used for Mac commands)
 
 # --- CONFIGURATION ---
-news_api = "fa0a48e7c23f4037b887554be0b9d0c8" # API key for authenticating with NewsAPI.org
-gemini_api_key = "AIzaSyBoJbjAcQ5isOmLS-WjdIrzbI16gUCZpZA" # API key for authenticating with Google Gemini
+news_api = "PASTE-YOUR-API-KEY-HERE" # API key for authenticating with NewsAPI.org
+gemini_api_key = "PASTE-YOUR-API-KEY-HERE" # API key for authenticating with Google Gemini
 
 # Configure Gemini (Using the fast 2.0 model)
 genai.configure(api_key=gemini_api_key) # Sets up the Gemini client with your provided key
