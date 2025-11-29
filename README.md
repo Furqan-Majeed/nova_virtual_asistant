@@ -31,7 +31,7 @@ You will need API Keys for:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Furqan-Majeed/Nova-Voice-Assistant.git](https://github.com/Furqan-Majeed/Nova-Voice-Assistant.git)
+    git clone https://github.com/Furqan-Majeed/Nova-Voice-Assistant.git
     cd Nova-Voice-Assistant
     ```
 
